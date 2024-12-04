@@ -1,2 +1,7 @@
-# BLOCKCHAIN-1ST-YEAR
-Work related to blockchain for 1st year.
+# React client
+
+This react project is unopinionated with only `web3.js` as an added dependency, so nothing stands in your way.
+
+## Getting started
+
+Run `npm start` to start the dev server, and `npm build` to create a production build.
